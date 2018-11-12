@@ -1,0 +1,8 @@
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\Task2\bin\Debug\Task2.exe.config
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\Task2\bin\Debug\Task2.exe
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\Task2\bin\Debug\Task2.pdb
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\Task2\bin\Debug\Polynomial.dll
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\Task2\bin\Debug\Polynomial.pdb
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\Task2\obj\Debug\Task2.exe
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\Task2\obj\Debug\Task2.pdb

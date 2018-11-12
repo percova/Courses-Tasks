@@ -1,0 +1,5 @@
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\MatrixReferences\bin\Debug\MatrixReferences.dll
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\MatrixReferences\bin\Debug\MatrixReferences.pdb
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\MatrixReferences\obj\Debug\MatrixReferences.csprojResolveAssemblyReference.cache
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\MatrixReferences\obj\Debug\MatrixReferences.dll
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\MatrixReferences\obj\Debug\MatrixReferences.pdb

@@ -1,0 +1,8 @@
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\Task1\bin\Debug\Task1.exe.config
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\Task1\bin\Debug\Task1.exe
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\Task1\bin\Debug\Task1.pdb
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\Task1\bin\Debug\MatrixReferences.dll
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\Task1\bin\Debug\MatrixReferences.pdb
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\Task1\obj\Debug\Task1.exe
+C:\Users\Viktoria\Desktop\Epam\Bondar_1\Task1\obj\Debug\Task1.pdb
